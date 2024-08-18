@@ -1,6 +1,6 @@
 
 # Project Title
-Password strength checker app using basic HTML,CSS,Javascript.
+Myntra home page clone app using basic HTML,CSS,Javascript.
 
 Wanna build Myntra E-commerce website , I got yaa!!
  
